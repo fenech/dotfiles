@@ -1,0 +1,32 @@
+// Place your settings in this file to overwrite the default settings
+{
+  "files.trimTrailingWhitespace": true,
+  "window.zoomLevel": -1,
+  "python.pythonPath": "python3",
+  "files.associations": {
+    "*.bats": "shellscript"
+  },
+  "csharp.suppressDotnetInstallWarning": true,
+  "typescriptHero.imports.stringQuoteStyle": "\"",
+  "typescriptHero.imports.multiLineWrapThreshold": 100,
+  "typescriptHero.imports.multiLineTrailingComma": false,
+  "typescriptHero.imports.organizeOnSave": true,
+  "editor.formatOnSave": true,
+  "explorer.confirmDragAndDrop": false,
+  "vetur.format.defaultFormatter.js": "none",
+  "files.insertFinalNewline": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "prettier.tslintIntegration": true,
+  "tslint.alwaysShowRuleFailuresAsWarnings": true,
+  "tslint.autoFixOnSave": true,
+  "[json]": {
+    "editor.quickSuggestions": {
+      "strings": true
+    },
+    "editor.formatOnSave": false
+  },
+  "editor.tabSize": 2,
+  "editor.detectIndentation": true,
+  "editor.minimap.enabled": true,
+  "diffEditor.ignoreTrimWhitespace": true
+}
